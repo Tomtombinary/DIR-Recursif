@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  DIR-recursif.cpp
+c:\users\thomas\documents\visual studio 2013\projects\dir-recursif\dir-recursif\dir-recursif.cpp(7): warning C4005: 'SEARCH_ALL' : redéfinition de macro
+          c:\program files (x86)\windows kits\8.1\include\um\winioctl.h(4587) : voir la définition précédente de 'SEARCH_ALL'
+  DIR-recursif.vcxproj -> C:\Users\Thomas\Documents\Visual Studio 2013\Projects\DIR-recursif\Debug\DIR-recursif.exe
